@@ -51,14 +51,28 @@ NetPractice is done directly in your browser via the 42 platform.
 ---
 
 ## Usage
+Download and extract the project files from the intranet
+Navigate to the extracted folder in your terminal
+Launch the interface by running:
+```bash
+./run.sh
+```
+This will start a local web server and open the training interface in your browser.
+Alternative method (if run.sh doesn't work):
+```bash
+python3 -m http.server 49242
+Then navigate to http://localhost:49242 in your web browser.
+```
+Using the Interface
+Training Mode:
 
-1. Open the NetPractice interface.
-2. Each level presents a **network topology**.
-3. Your task is to:
-   - Assign correct IP addresses
-   - Set subnet masks
-   - Configure routing if needed
-4. Click **Check again** to validate your solution.
+Enter your 42 login in the designated field
+This loads your personal configuration and progress
+Complete all 10 levels in sequence
+Evaluation Mode:
+
+Use the "evaluation" tab for random configurations
+Useful for practice and peer evaluations
 
 ---
 
