@@ -109,10 +109,41 @@ Gateway: 192.168.1.1
 
 ## Resources
 
-- **Subnetting Guide**  
+### 📺 Videos
+
+- **You Suck at Subnetting (NetworkChuck)**  
+  https://www.youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF  
+  *A complete course to master IPv4 subnetting step by step.*
+
+- **Networking Basics (2025) – IT k Funde**  
+  https://www.youtube.com/watch?v=_IOZ8_cPgu8  
+  *Covers switches, routers, gateways, and core networking concepts.*
+
+- **NetPractice: Intro to IP & Subnets – Thuggonaut**  
+  https://www.youtube.com/watch?v=HQUw0CfQWAM  
+  *Focused explanation tailored for the 42 NetPractice project.*
+
+---
+
+### 📖 Articles
+
+- **NetPractice (Medium Guide)**  
+  https://medium.com/@imyzf/netpractice-2d2b39b6cf0a  
+
+- **NetPractice Guidelines**  
+  https://toufa7.medium.com/netpractice-guidelines-6341b8309f38  
+
+- **Advanced Subnetting Guide**  
+  https://toufa7.medium.com/new-subnetting-34fadfb86c70  
+
+---
+
+### 🌐 Tools & Practice
+
+- **Subnetting Practice Tool**  
   https://subnettingpractice.com/
 
-- **Networking Basics (Cisco)**  
+- **Cisco Networking Basics**  
   https://www.netacad.com/
 
 - **IP Calculator**  
